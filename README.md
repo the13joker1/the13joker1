@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm THE_13joker1</h1>
 <h3 align="center">A student from Germany</h3>
 
-- 🌱 I’m currently learning **C#, Java**
+- 🌱 I’m want learning **C#, Java**
 
 - 💬 Ask me about **html, python,ai**
 
