@@ -2,8 +2,12 @@
   
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=The13joker1)](https://github.com/the13joker1/github-profile-trophy)
+<br/>
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=the13joker1&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<br/>  
 
 - 🔭 I’m currently working on a few projects here on github  
   
@@ -75,10 +79,7 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=the13joker1&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
 
 
 <div align="center">
