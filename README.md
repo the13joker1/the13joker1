@@ -1,7 +1,7 @@
 ### <div align="center">I'm THE_13joker1, a student from Germany</div>  
 ***
 ## Github Stats  
-[![trophy](https://github-profile-trophy.vercel.app/?username=The13joker1)](https://github.com/the13joker1/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=The13joker1)](https://github.com/ryo-ma/github-profile-trophy)
 <br/>
 
  
