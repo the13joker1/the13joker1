@@ -1,14 +1,14 @@
 ### <div align="center">I'm THE_13joker1, a student from Germany</div>  
-  
-
+***
+## Github Stats  
 [![trophy](https://github-profile-trophy.vercel.app/?username=The13joker1)](https://github.com/the13joker1/github-profile-trophy)
 <br/>
 
-## Github Stats  
+ 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=the13joker1&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+***
 <br/>  
-
+##About me
 - 🔭 I’m currently working on a few projects here on github  
   
 
@@ -23,7 +23,7 @@
 
 <br/>  
 
-
+***
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -58,7 +58,7 @@
 
 <br/>  
 
-
+***
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/the13joker1" target="_blank">
