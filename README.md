@@ -74,7 +74,9 @@
 
 ### OS
 
-<img src="https://freepngimg.com/download/apple/58687-logo-computer-apple-icons-free-hd-image.png" height="150" width="auto" />
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4633e000-a32c-4580-ac2d-76d3c0260a4a/da9gl56-1be1a52f-05e8-43b2-97c2-cfa2c61c34b4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi80NjMzZTAwMC1hMzJjLTQ1ODAtYWMyZC03NmQzYzAyNjBhNGEvZGE5Z2w1Ni0xYmUxYTUyZi0wNWU4LTQzYjItOTdjMi1jZmEyYzYxYzM0YjQucG5nIn1dXX0.E3Uba7GxjvdQx8qW6Y-aZJ9OhOnEa8aaYWDUQd6pUzE" height="150" width="auto" />
+
+<img src="https://pluspng.com/img-png/apple-ios-logo-png-webmyne-systems-is-an-iphone-application-development-company-in-india-providing-custom-apps-across-the-globe-get-robust-and-full-cycle-ios-apps-game-1024.png" height="150" width="auto" />
 
 
 ---
