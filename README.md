@@ -72,8 +72,7 @@
 
 ### OS
 
-![Apple Logo](https://freepngimg.com/download/apple/58687-logo-computer-apple-icons-free-hd-image.png)
-
+<img src="https://freepngimg.com/download/apple/58687-logo-computer-apple-icons-free-hd-image.png" height="150" width="150" />
 ---
 
 ## Connect with Me
