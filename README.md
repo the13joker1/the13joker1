@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on a few projects here on GitHub.
 - 🌱 I'm eager to learn C# and Java.
-- ❓ Ask me about everything related to AI or Python.
+- ❓ Ask me about anything related to AI or Python.
 - ⚡ Fun fact: I prefer tabs over spaces.
 
 ---
@@ -69,8 +69,6 @@
     <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
   </a>
 </div>
-
-
 
 ### OS
 
