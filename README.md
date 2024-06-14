@@ -8,6 +8,8 @@
 
 ## GitHub Stats
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=the13joker1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the13joker1&show_icons=true&count_private=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the13joker1&layout=compact&hide_border=true)](https://github.com/the13joker1)
 
