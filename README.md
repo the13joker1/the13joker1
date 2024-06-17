@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/1bqSN8Q/the13-joker1.jpg" height="150" width="150" />
+<img src="https://i.ibb.co/nkcQkZk/IMG-4830.png" height="150" width="150" />
 </div>
 
 ### <div align="center">I'm THE_13joker1, a student from Germany</div>
