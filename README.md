@@ -105,7 +105,7 @@
 ---
 # Other
 
-<a target='_blank' href='https://www.ag-spiel.de/?bonus=87910'><img src='https://www.ag-spiel.de/signature.php?id=87910'></a>
+Coming Soon =)
 
 ---
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">GitHub Profilinator</a></div>
