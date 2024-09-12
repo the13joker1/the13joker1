@@ -39,4 +39,8 @@
 
 ---
 <h2>Other</h2>
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://namemc.com/profile/THE_13joker1.1" data-iframely-url="//iframely.net/I2pxU2z"></a></div></div><script async src="//iframely.net/embed.js"></script>
+# Profil von THE_13joker1 auf NameMC
+
+Hier ist der Link zu meinem [NameMC Profil](https://namemc.com/profile/THE_13joker1.1).
+
+[![Profilbild von THE_13joker1](https://namemc.com/profile/THE_13joker1.1.png)](https://namemc.com/profile/THE_13joker1.1)
