@@ -36,3 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the13joker1&show_icons=true&locale=en" alt="the13joker1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the13joker1&" alt="the13joker1" /></p>
+
+---
+<h2>Other</h2>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://namemc.com/profile/THE_13joker1.1" data-iframely-url="//iframely.net/I2pxU2z"></a></div></div><script async src="//iframely.net/embed.js"></script>
