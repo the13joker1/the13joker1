@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/nkcQkZk/IMG-4830.png" height="150" width="150" />
+<img style="border-radius:20px;" src="https://i.ibb.co/nkcQkZk/IMG-4830.png" height="150" width="150" />
 </div>
 <h1 align="center">Hi 👋, I'm THE_13joker1</h1>
 <h3 align="center">A german Student</h3>
