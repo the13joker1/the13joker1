@@ -36,11 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the13joker1&show_icons=true&locale=en" alt="the13joker1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the13joker1&" alt="the13joker1" /></p>
-
----
-<h2>Other</h2>
-# Profil von THE_13joker1 auf NameMC
-
-Hier ist der Link zu meinem [NameMC Profil](https://namemc.com/profile/THE_13joker1.1).
-
-[![Profilbild von THE_13joker1](https://namemc.com/profile/THE_13joker1.1.png)](https://namemc.com/profile/THE_13joker1.1)
