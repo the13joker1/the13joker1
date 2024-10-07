@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="MYHVZR" style="border-radius: 50%; height: 150px; width: 150px;" />
+  <img src="https://i.ibb.co/G2bfFkh/13.jpg" style="border-radius: 50%; height: 150px; width: 150px;" />
 </div>
 
 <h1 align="center">Hi 👋, I'm THE_13joker1</h1>
