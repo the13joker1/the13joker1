@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://the13joker1.github.io/](https://the13joker1.github.io/)
 
-- 💬 Ask me about **flask**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **the.13joker1@gmail.com**
 
