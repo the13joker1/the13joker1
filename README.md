@@ -16,7 +16,7 @@ Im currently learning c# and want learn  Java
 
 ### 📝 Certifications
 
-[![Responsive Web Design Certification]([https://i.ibb.co/C3x47hcL/Responsive-Web-Design-Certification.jpg))](https://www.freecodecamp.org/certification/THE_13joker1/responsive-web-design)
+[![Responsive Web Design Certification](https://i.ibb.co/C3x47hc/Responsive-Web-Design-Certification.jpg)](https://www.freecodecamp.org/certification/THE_13joker1/responsive-web-design)
 
 
 
